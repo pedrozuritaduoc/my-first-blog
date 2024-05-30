@@ -1,0 +1,6 @@
+$ pa_autoconfigure_django.py --python=3.7 https://github.com/pedrozuritaduoc/my-first-blog.git
+
+
+
+git remote add origin https://github.com/pedrozuritaduoc/my-first-blog.git
+pedrozuritaduoc
